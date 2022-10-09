@@ -2,13 +2,13 @@
 
 int main(void)
 {
-    int num1 = 3;
-    double num2 = 4.5;
 
 
     printf("반갑습니다\n");
     printf("Hello World!");
-    printf("%d + %f = %f\n", num1, num2, num1 + num2);
+    printf("Hi");
+    printf("Bye");
+    printf("Good");
 
     return 0;
 }

@@ -6,6 +6,11 @@ int main(void)
     double result = (double)num1 / num2;
 
     printf("나눗셈 결과 : %f \n", result);
+    printf("나눗셈 결과 : %f \n", result);
+    printf("나눗셈 결과 : %f \n", result);
+    printf("나눗셈 결과 : %f \n", result);
+    printf("나눗셈 결과 : %f \n", result); 
+    printf("나눗셈 결과 : %f \n", result);
   
     return 0;
 }
